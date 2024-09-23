@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "5933",
+      "name": "Kim",
+      "age": 26
+    },
+    {
+      "id": "8c87",
+      "name": "Kimberley",
+      "age": 83
+    },
+    {
+      "id": "cae6",
+      "name": "Momo",
+      "age": 40
+    },
+    {
+      "id": "88c7",
+      "name": "Arthur",
+      "age": 39
+    }
+  ]
+}
